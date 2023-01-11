@@ -1,1 +1,1 @@
-# Analysis-of-University-Ranking-Overall-India-with-NIRF
+# Analysis-of-University-Ranking-of-Overall-India-with-NIRF
